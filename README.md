@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mansi Gupta</h1>
 <h3 align="center">Data Analysis | Android & Software Development | Graphic Designer | Content Creator | 21U21 Awardee | GHC'21 Scholar</h3>
 
-I am the Team Lead & Business Operation Manager of C2M, a B2C startup connecting the local vendors to the customers. By profession, I am a final year college student doing bachelors in Technology in Computer Science.
+I am a final year college student doing bachelors in Technology in Computer Science.
 
 I am into Business Analysis past a year now.
 
